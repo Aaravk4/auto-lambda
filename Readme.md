@@ -11,7 +11,7 @@ This code serves as a simple example showcasing the usage of the "auto" keyword 
 
 ## How to Run
 1. Ensure you have a C++ compiler installed.
-2. Copy the source code into a new file (e.g., `main.cpp`).
+2. Copy the source code into a new file (e.g., `base.cpp`).
 3. Compile and run the program.
 
 ```bash
