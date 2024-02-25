@@ -15,5 +15,5 @@ This code serves as a simple example showcasing the usage of the "auto" keyword 
 3. Compile and run the program.
 
 ```bash
-g++ main.cpp -o main
+g++ base.cpp -o main
 ./main
